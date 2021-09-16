@@ -3,5 +3,5 @@
 20173040 박근하
 ## 1주차
 ## 2주차
-<img width="300" height="400" src",/png/<파일명>.png"></img>
+<img width="300" height="400" src"./png/<dog>.png"></img>
 ## 3주차
