@@ -18,3 +18,8 @@
 ## 5주차
 <img width="" height="" src="./png/5_1.png"></img>
 <img width="" height="" src="./png/5_2.png"></img>
+
+## 6주차
+<img width="" height="" src="./png/6_1.png"></img>
+<img width="" height="" src="./png/6_2.png"></img>
+<img width="" height="" src="./png/6_3.png"></img>
