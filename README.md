@@ -22,4 +22,5 @@
 ## 6주차
 <img width="" height="" src="./png/6_1.png"></img>
 <img width="" height="" src="./png/6_2.png"></img>
+<img width="" height="" src="./png/6_3_1.png"></img>
 
